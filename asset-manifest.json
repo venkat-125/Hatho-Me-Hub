@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Hatho-Me-Hub/static/css/main.f052f4df.css",
+    "main.js": "/Hatho-Me-Hub/static/js/main.7f13699c.js",
+    "static/media/bg-bunner-1.jpg": "/Hatho-Me-Hub/static/media/bg-bunner-1.92a58276074206484bc8.jpg",
+    "static/media/about.jpg": "/Hatho-Me-Hub/static/media/about.56e92b20e762df2fa5de.jpg",
+    "static/media/pricing.jpg": "/Hatho-Me-Hub/static/media/pricing.4552ccf3b91e93029513.jpg",
+    "static/media/services.jpg": "/Hatho-Me-Hub/static/media/services.13be7fde05782bd5e2e8.jpg",
+    "index.html": "/Hatho-Me-Hub/index.html",
+    "main.f052f4df.css.map": "/Hatho-Me-Hub/static/css/main.f052f4df.css.map",
+    "main.7f13699c.js.map": "/Hatho-Me-Hub/static/js/main.7f13699c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f052f4df.css",
+    "static/js/main.7f13699c.js"
+  ]
+}
